@@ -1,0 +1,8 @@
+{
+  "name": "PortraitistApp",
+  "app_id": "e609c657",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
